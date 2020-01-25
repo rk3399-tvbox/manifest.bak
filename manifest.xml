@@ -7,7 +7,7 @@
   <remote fetch="https://gitlab.com/rockchip-group/" name="rk3399"/>
   <remote fetch="https://github.com/rockchip-android/" name="rockchip-android"/>
   
-  <default remote="aosp" revision="refs/tags/android-9.0.0_r48" sync-j="4"/>
+  <default remote="aosp" revision="refs/tags/android-9.0.0_r49" sync-j="4"/>
   
   <project name="RKTools" remote="rk-vendor" revision="52bf49184af0379238bb0543c9c3479b6873bc77" upstream="rk3399-9.0"/>
   <project groups="pdk" name="TWRP" path="bootable/recovery" remote="rockchip-android" revision="1b7c67e22102320742cdfc711c8bfb6c12d13d4d" upstream="android-9.0"/>
